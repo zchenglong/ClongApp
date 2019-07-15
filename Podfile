@@ -9,7 +9,7 @@ target 'ClongApp' do
   pod 'CLRouter'
 #  pod 'ClongAlgorithm', :git => 'https://github.com/zchenglong/ClongAlgorithm.git'
   pod 'ClongAlgorithm', :path => '../ClongAlgorithm'
-#  pod 'ClongDesignMode', :path => 'https://github.com/zchenglong/ClongDesignMode.git'
+#  pod 'ClongDesignMode', :git => 'https://github.com/zchenglong/ClongDesignMode.git'
   pod 'ClongDesignMode', :path => '../ClongDesignMode'
   
 end
